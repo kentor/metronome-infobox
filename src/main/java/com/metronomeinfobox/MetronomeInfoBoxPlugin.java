@@ -51,7 +51,7 @@ public class MetronomeInfoBoxPlugin extends Plugin
 
 	@Subscribe
 	public void onConfigChanged(ConfigChanged event) {
-		if (infoBox != null) {
+		if (infoBox != null && event.getGroup().equals(MetronomeInfoBoxConfig.GROUP)) {
 			infoBox.onConfigChanged(config);
 		}
 	}

@@ -4,9 +4,11 @@ import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("MetronomeInfoBox")
+@ConfigGroup(MetronomeInfoBoxConfig.GROUP)
 public interface MetronomeInfoBoxConfig extends Config
 {
+	String GROUP = "metronomeinfobox";
+
 	@ConfigItem(
 		keyName = "ticks",
 		name = "Ticks",
