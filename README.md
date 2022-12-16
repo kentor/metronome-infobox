@@ -12,11 +12,11 @@ This is useful for activities that require counting ticks.
 
 Click on Celastrus Bark on tick 4 then click on rock on tick 1
 
-![4t3g](https://raw.githubusercontent.com/kentor/metronome-infobox/master/images/4t3g.gif)
+![4t3g](https://raw.githubusercontent.com/kentor/metronome-infobox/master/images/4t3g-compressed)
 
 
 ### 3-tick 2s2g
 
 Set tick count in the plugin to 3. This example does knife-log and click rock on tick 2.
 
-![2s2g](https://raw.githubusercontent.com/kentor/metronome-infobox/master/images/3t2s2g.gif)
+![2s2g](https://raw.githubusercontent.com/kentor/metronome-infobox/master/images/3t2s2g-compressed)
